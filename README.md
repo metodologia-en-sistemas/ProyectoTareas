@@ -1,2 +1,2 @@
 # ProyectoTareas
-Repositorio inicial de la app climatológica
+Repositorio inicial de la app to do list
